@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Status-Working-green?style=for-the-badge" alt="Status">
 
   <br><br>
-  <img src="https://i.imgur.com/8Z3Zf9K.png" width="600" alt="Banner">
+  <img src="[https://i.imgur.com/8Z3Zf9K.png](https://avatars.githubusercontent.com/u/246539416?s=400&u=7db1395e75bc70cf7ecbd3a1a9aa84dbc76b85ac&v=4)" width="600" alt="Banner">
 </div>
 
 ---
